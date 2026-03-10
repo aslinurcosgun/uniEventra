@@ -34,3 +34,5 @@ The project design includes a use case diagram, class diagram, and sequence diag
 
 ## Conclusion
 UniEventra aims to make campus event participation easier and more organized.
+## Development Notes
+This section was added in the asli-branch for collaboration testing.
