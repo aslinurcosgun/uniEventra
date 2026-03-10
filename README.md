@@ -4,8 +4,7 @@
 DevTrio
 
 ## Project Overview
-UniEventra is a modern campus event platform designed for students and club representatives.
-
+UniEventra is a modern university event platform that helps students explore and join campus activities.
 ## Problem Statement
 Students often miss campus events because announcements are shared on different platforms.
 
